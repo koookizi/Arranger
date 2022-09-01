@@ -5,6 +5,9 @@ Used for creating arrangements of songs in very short time.
 # Installation
 Download the 'arranger' folder and open the arranger.exe file (you can create a desktop shortcut for ease of access).
 
+# Due bug fixes
+At the moment, the program doesn't automatically close the Selenium browser (used for loading up Javascripts) and may cause your computer to lag (it's basically another chrome tab). It will close though once you closed the program. Otherwise end Chrome processes in task manager.
+
 # How to use
 You must complete the process in order: load > transpose > arrange > generate.
 The program will not let you do any other way.
