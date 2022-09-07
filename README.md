@@ -1,4 +1,4 @@
-# Arranger
+# Arranger (v1.1)
 Creates a Word document of a provided arrangement from a Ultimate Guitar link.
 Used for creating arrangements of songs in very short time.
 
