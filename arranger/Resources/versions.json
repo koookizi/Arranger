@@ -1,0 +1,10 @@
+{
+  "versions": {
+    "v1.0": {"Date":"16/06/2022","Updates":["Created console-based program"]},
+    "v1.1": {"Date":"18/06/2022","Updates":["Fixed chord error validation","Added menu"]},
+    "v1.2": {"Date":"19/06/2022","Updates":["Added Version History","Added more chord families (higher chords only)","Added crap version of chord identifier"]},
+    "v1.3": {"Date":"19/06/2022","Updates":["Added Ultimate Guitar Transpose Finder","Firmed that chord identifier is a big L atm"]},
+    "v2.0": {"Date":"05/08/2022","Updates":["Created GUI-based program"]},
+    "v2.1": {"Date":"06/06/2022","Updates":["Developed multi-page functionality","Added ug transposer"]}
+  }
+}
