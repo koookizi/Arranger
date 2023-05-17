@@ -1,4 +1,10 @@
-# Arranger (v1.1)
+# UPDATE v3.0 (alpha)
+- Mac OS compatability (download corresponding folder)
+- New "Generate" page allowing you to pick certain styles.
+
+NOTE: The new "Generate" page is currently under construction, the only style available is "default".
+
+# Arranger
 Creates a Word document of a provided arrangement from a Ultimate Guitar link.
 Used for creating arrangements of songs in very short time.
 
